@@ -3,8 +3,8 @@ observabilityIncluded = true
 
 [package]
 distribution = "2201.0.2"
-export = ["redcrcoss"]
-name = "redcrcoss"
+export = ["admin_api"]
+name = "admin_api"
 org = "medicinesl"
 
 [[platform.java11.dependency]]
